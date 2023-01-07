@@ -1,4 +1,4 @@
-# todo_app
+# To Do App
 
 Aplicativo criado para estudar o armazenamento de dados no celular com o uso do Hive.
 
